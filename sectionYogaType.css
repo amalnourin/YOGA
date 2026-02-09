@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.yoga-type-bg-container {
+    background-color: #ffedcb;
+    font-family: 'Roboto';
+}
+
+.yoga-type-image {
+    height: 200px;
+    padding-top: 15px;
+}
+
+.aligning-yoga-type { 
+    text-align: center;
+}
+
+.yoga-type-main-heading {
+    margin-top: 14px;
+    color: #132d84;
+    font-size: 25px;
+}
+
+.yoga-type-card {
+    background-color: #ffe2ab;
+    border-radius: 12px;
+    margin: 20px;
+    padding: 15px;
+}
+
+.yoga-type-card-image {
+    height: 80px;
+}
+
+.yoga-type-sub-heading {
+    color: #253263;
+    font-size: 16px;
+    padding-left: 10px;
+}
+
+.yoga-type-description {
+    color: #253263;
+    font-size: 11px;
+    padding-left: 10px;
+}
+
+.yoga-type-button {
+    background-color: #253263;
+    color: #ffe2ab;
+    height: 38px;
+    width: 120px;
+    border-radius: 8px;
+    font-size: 15px;
+}
